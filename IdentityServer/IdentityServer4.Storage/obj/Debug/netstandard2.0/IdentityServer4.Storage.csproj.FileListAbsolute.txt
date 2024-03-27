@@ -1,0 +1,12 @@
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.csproj.AssemblyReference.cache
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.AssemblyInfoInputs.cache
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.AssemblyInfo.cs
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.csproj.CoreCompileInputs.cache
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\bin\Debug\netstandard2.0\IdentityServer4.Storage.deps.json
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\bin\Debug\netstandard2.0\IdentityServer4.Storage.dll
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\bin\Debug\netstandard2.0\IdentityServer4.Storage.pdb
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\bin\Debug\netstandard2.0\IdentityServer4.Storage.xml
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.dll
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.xml
+D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\obj\Debug\netstandard2.0\IdentityServer4.Storage.pdb

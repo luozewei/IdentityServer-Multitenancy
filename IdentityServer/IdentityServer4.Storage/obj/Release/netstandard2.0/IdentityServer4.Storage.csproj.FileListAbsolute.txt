@@ -1,0 +1,12 @@
+D:\Code\Git\IdentityServer4\src\Storage\src\bin\Release\netstandard2.0\IdentityServer4.Storage.deps.json
+D:\Code\Git\IdentityServer4\src\Storage\src\bin\Release\netstandard2.0\IdentityServer4.Storage.dll
+D:\Code\Git\IdentityServer4\src\Storage\src\bin\Release\netstandard2.0\IdentityServer4.Storage.pdb
+D:\Code\Git\IdentityServer4\src\Storage\src\bin\Release\netstandard2.0\IdentityServer4.Storage.xml
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.csprojAssemblyReference.cache
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.AssemblyInfoInputs.cache
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.AssemblyInfo.cs
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.csproj.CoreCompileInputs.cache
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.sourcelink.json
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.dll
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.xml
+D:\Code\Git\IdentityServer4\src\Storage\src\obj\Release\netstandard2.0\IdentityServer4.Storage.pdb

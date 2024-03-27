@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>IdentityServer4.Storage</id>
+    <version>0.0.0-alpha.0.2409</version>
+    <authors>Brock Allen,Dominick Baier</authors>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <license type="expression">Apache-2.0</license>
+    <licenseUrl>https://licenses.nuget.org/Apache-2.0</licenseUrl>
+    <icon>icon.jpg</icon>
+    <projectUrl>https://github.com/IdentityServer/IdentityServer4</projectUrl>
+    <description>Storage interfaces and models for IdentityServer4</description>
+    <releaseNotes>https://github.com/IdentityServer/IdentityServer4/releases</releaseNotes>
+    <tags>OAuth2 OAuth 2.0 OpenID Connect Security Identity IdentityServer</tags>
+    <repository type="git" url="https://github.com/luozewei/IdentityServer4" commit="4dc10e665f5ede63274427036c25cdc216130eb9" />
+    <dependencies>
+      <group targetFramework=".NETStandard2.0">
+        <dependency id="IdentityModel" version="4.4.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Code\Git\IdentityServer4\src\Storage\src\bin\Release\netstandard2.0\IdentityServer4.Storage.pdb" target="lib\netstandard2.0\IdentityServer4.Storage.pdb" />
+    <file src="D:\Code\Git\IdentityServer4\src\Storage\src\bin\Release\netstandard2.0\IdentityServer4.Storage.dll" target="lib\netstandard2.0\IdentityServer4.Storage.dll" />
+    <file src="D:\Code\Git\IdentityServer4\src\Storage\src\bin\Release\netstandard2.0\IdentityServer4.Storage.xml" target="lib\netstandard2.0\IdentityServer4.Storage.xml" />
+    <file src="D:\Code\Git\IdentityServer4\icon.jpg" target="icon.jpg" />
+  </files>
+</package>

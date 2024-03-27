@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = IdentityServer4.Storage
+build_property.ProjectDir = D:\Code\Git\luozewei\IdentityServer-Multitenancy\IdentityServer\IdentityServer4.Storage\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
